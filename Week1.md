@@ -1,1 +1,4 @@
-Add Week 1 lab notebook
+-Attend introductionary meeting for CMPM 118
+-Introductions of peers and staff
+-Create Lab Notebook repository
+-Download Rust
