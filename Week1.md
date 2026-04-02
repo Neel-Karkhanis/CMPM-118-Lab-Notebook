@@ -1,4 +1,4 @@
--Attend introductionary meeting for CMPM 118
--Introductions of peers and staff
--Create Lab Notebook repository
--Download Rust
+-Attend introductionary meeting for CMPM 118 <br>
+-Introductions of peers and staff <br>
+-Create Lab Notebook repository <br>
+-Download Rust <br>
