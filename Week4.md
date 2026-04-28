@@ -21,6 +21,7 @@
 
 ## Goals:
 - Continue to develop a working understanding of Rust fundamentals
+- Use the CLP project to help familiarize myself with Rust syntax and basics in a way Rustlings isn't able to
 - Fill all the fundamental knowledge gaps I have in operating systems, as while reading the "Arrakis" paper, I realized how much I don't know.
 
 ## Thoughts/Challenges for the Week:
