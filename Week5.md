@@ -27,6 +27,7 @@
 - Continue to develop a working understanding of Rust fundamentals
 - Begin thinking past just learning Rust, and how to actually contribute to the Twizzler OS
 - Continue more bonding with lab mates
+- Read and understand CHERI paper, and make connections to how it could benefit Twizzler OS research
 ## Thoughts/Challenges for the Week:
 - Lifetimes were extremely hard to understand
   - Aside from the new syntax, the idea of having to track lifetimes of variables was something I've never had to consider in my prior programming experience
