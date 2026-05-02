@@ -1,4 +1,4 @@
-# Week 4 - [04/26/2026 - 05/3/2026]
+# Week 5 - [04/26/2026 - 05/3/2026]
 
 ## What I Did:
 - Completed Rustlings Exercises up to and including Iterators (Rustlings 18)
@@ -19,6 +19,10 @@
 - Finish chapters 15-17 of the textbook
 - Complete Rustlings up to and including 20 - Threads
 - Ensure my Lab Notebook is strong for submission to the mid quarter review
+- Read "An Introduction to CHERI"
+  - Take notes as reading goes along
+  - Write a brief summary (major contributions, strengths, weaknesses, questions) - include in next weeks lab report entry
+  - Focus on sections 1-5, and skim over section 8
 ## Goals:
 - Continue to develop a working understanding of Rust fundamentals
 - Begin thinking past just learning Rust, and how to actually contribute to the Twizzler OS
