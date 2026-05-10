@@ -35,11 +35,11 @@
   - I had much of the previous needed background knowledge to understand the paper, as CSE 12 had covered a significant portion
   - Learning more of C/C++ pointers and their weaknesses helped solidify my understanding of how pointers work in Rust, and what the safety features actually help fix in Rust
   - I found the paper very convincing, and the technique of extending pointers to have metadata a strong solution to a long time problem of memory safety
-- Regarding the first lab project initiail thoughts (before starting)
+- Regarding the first lab project initial thoughts (before starting)
   - I am very excited to begin really coding in Rust instead of just debugging in Rustlings
   - The Command Line Program we built in chapter 12 was extremely helpful, and I see this being the same case
 - Regarding steps 1-4 of the lab project
-  - Extremely difficult, and the project feels extremely uncomfortable since this was only the second real build from scratch assignment
+  - Extremely difficult, and the project feels very uncomfortable since this was only the second real build from scratch assignment
   - Since I mostly didn't really practice anything I was reading about, so much felt unituitive
   - Things like matching or error handling, which I had grasped the week I had read about them, I completely forgot about and had to reteach myself how they worked
   - The compiler is very useful, and has helped me brute-force certain sections
