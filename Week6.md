@@ -25,7 +25,7 @@
 - Familiarize myself in OOP and Patterns and Matching in Rust
 - Use the lab project to get even more hands on experience building from scratch in Rust
 
-## Thoughts/Challenges for the Week:
+## Thoughts/Challenges for the Week (Reflection):
 - The topics on smart pointers and especially asynchronous programming were very difficult to grasp
   - My previous programming experience was mainly Python, where I never needed to consider pointers
   - I never had touched asynchronous programming, so this introduction to it was very foreign
