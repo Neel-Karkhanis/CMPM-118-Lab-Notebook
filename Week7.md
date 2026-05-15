@@ -7,7 +7,7 @@
 - Finished the filesystem lab
   - Implemented a display function to print out the tree
   - Implemented a find function to navigate through the path of the tree in order to find a target directory/file
-  - Created handles for Directories/Files to be able to read/write to them
+  - Created handles for directories/files to be able to read/write to them
   - All implemented with proper error handling throughout
   - Used the collective knowledge learned from all the previous RPLB chapters + YouTube videos
   - Debugged until the program passed the given tests
