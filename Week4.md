@@ -1,4 +1,4 @@
-# Week 4 - [04/18/2026 - 04/25/2026]
+# Week 4 - [04/20/2026 - 04/26/2026]
 
 ## What I Did:
 - Completed Rustlings Excersises up to and including Error Handling (Rustlings 13)
