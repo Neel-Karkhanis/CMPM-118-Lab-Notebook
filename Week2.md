@@ -1,4 +1,4 @@
-# Week 2 - [04/02/2026 - 04/09/2026]
+# Week 2 - [04/06/2026 - 04/12/2026]
 
 ## What I Did
 - Started Rustlings exercises
