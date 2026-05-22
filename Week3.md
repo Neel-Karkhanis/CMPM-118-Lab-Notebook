@@ -1,4 +1,4 @@
-# Week 3 - [04/10/2026 - 04/17/2026]
+# Week 3 - [04/13/2026 - 04/19/2026]
 
 ## What I Did
 - Completed Rustlings Exercises up to and including Modules (Rustlings 10)
