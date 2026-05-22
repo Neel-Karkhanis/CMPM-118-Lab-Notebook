@@ -1,4 +1,4 @@
-# Week 7 - [05/12/2026 - 05/19/2026]
+# Week 7 - [05/11/2026 - 05/17/2026]
 
 ## What I Did:
 - Read chapters 18 and 19 of the Rust Programming Language Book (RPLB), Brown Edition
