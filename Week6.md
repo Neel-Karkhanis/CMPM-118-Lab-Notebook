@@ -1,4 +1,4 @@
-# Week 6 - [05/4/2026 - 05/11/2026]
+# Week 6 - [05/4/2026 - 05/10/2026]
 
 ## What I Did:
 - Completed Rustlings Exercises up to and including Threads (Rustlings 20)
